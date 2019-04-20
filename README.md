@@ -5,10 +5,10 @@
 
 При первом запуске на компьютере, после установки нужно указать имя пользователя и мыло. Каждый коммит будет содержать эти данные. :
 ```
-$ git config --global user.name "Chistikov Vlad"
+$ git config --global user.name "Username"
 ```
 ```
-$ git config --global user.email "vlad.chistikov998@gmail.com"
+$ git config --global user.email "email@gmail.com"
 ```
 
 опция ```--global``` позволяет указать данные только 1 раз и не вводить их каждый раз
